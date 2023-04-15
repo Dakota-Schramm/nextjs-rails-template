@@ -1,5 +1,9 @@
 # Rails + Nextjs - Backend for Frontend Template
 
+# TODO
+- Add dev scripts to setup
+- Move frontend to be at root level with app folder from backend
+
 # TO START
 - Initialize your dev directories
   - Install next template in app/frontend/etc. directory
